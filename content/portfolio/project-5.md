@@ -33,13 +33,18 @@ seo:
       relativeUrl: true
 layout: project
 ---
-As a data journalist, I've worked on a handful of small and medium-sized projects to visualize civic data that wasn't publicly available. 
+As a data journalist, I've worked on a handful of small and medium-sized projects to visualize civic data that wasn't publicly available.
+
+
+
+#### Crime Dashboard
 
 ![](/images/2021-05-11%20\(4\).png)
 
 In 2017, I created [an interactive dashboard for The Wire](https://notrueindian.shinyapps.io/NCRB/) that visualized crime data from the National Crime Records Bureau (NCRB). This data was only available in the form of multiple PDF reports. It was extracted, cleaned and then visualized using R/Shiny. The NCRB stopped publishing new data so this dashboard is almost up-to-date even though it hasn't been updated in almost five years.
 
+
+
+#### Indian Higher Education Database
+
 Over the course of my work with the Urban History Project and The Wire, I collated a large dataset on higher education in India. It combined data from the UGC and the All India Survey of Higher Education (AISHE) along with new data like geolocations so that interactive maps could be created to show how higher education has grown in India from the time of independence. The data is [available on github](https://github.com/notrueindian/india-higher-ed-db) but the labelling process isn't complete.
-
-
-
