@@ -1,6 +1,6 @@
 ---
 title: Journalism
-subtitle: Optional Project Subtitle
+subtitle: 'articles on history, science, labour and fiction'
 date: '2019-04-08'
 thumb_image: images/image-from-rawpixel-id-3045775-jpeg.jpg
 thumb_image_alt: A yellow retro telephone on a yellow background
