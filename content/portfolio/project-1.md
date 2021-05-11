@@ -1,5 +1,5 @@
 ---
-title: Project Title 1
+title: Project Title
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/955px-French_opium_den.jpg
