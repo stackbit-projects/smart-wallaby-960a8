@@ -33,6 +33,10 @@ seo:
       relativeUrl: true
 layout: project
 ---
+As a journalist since 2015, I've written across a wide variety of subjects - from reporting on higher education to essays on the intersection of science, history and art. Here's a selection of some of my published work:
+
+
+
 #### Features / Essays
 
 *   [A Tale of Two Continents: Lemuria and Gondwana](https://www.laphamsquarterly.org/roundtable/tale-two-continents) (Lapham’s Quarterly, 11th March 2019)
@@ -51,7 +55,7 @@ layout: project
 
 #### Book Reviews
 
-*    [Through Two Doors at Once](https://thewire.in/the-sciences/review-the-diy-experiment-that-captures-all-the-mystery-of-quantum-physics) by Anil Ananthaswamy (The Wire, 7th Feb 2019, Non-fiction)
+*   [Through Two Doors at Once](https://thewire.in/the-sciences/review-the-diy-experiment-that-captures-all-the-mystery-of-quantum-physics) by Anil Ananthaswamy (The Wire, 7th Feb 2019, Non-fiction)
 
 *   [The Man Who Saw the Sun and Other Plays](https://www.thehindubusinessline.com/blink/read/makarand-sathe-absurdist-in-limbo/article24529205.ece) by  Makarand Sathe (BLInk, 27th July 2018, Plays)
 
@@ -61,10 +65,6 @@ layout: project
 
 *   [Navigating the Labyrinth: Perspectives on Higher Education](https://thewire.in/116752/in-indias-higher-education-surfeit-of-regulation-and-deficit-of-governance/) by Prataph Bhanu Mehta and Devesh Kapur (The Wire, 16th March 2017, Non-fiction)
 
-*   [Cixin Liu’s The Three-Body Problem](http://www.thehindu.com/books/books-reviews/A-celebration-of-science-as-saviour/article17192992.ece) (The Hindu’s Sunday Magazine, 4th February 2017, Fiction)
-
-*   [Gayathri Prabhu’s The Untitled](http://www.thehindu.com/books/Unlearnt-history-lessons/article15568323.ece) (The Hindu’s Sunday Magazine, 15th October 2016, Fiction)
-
 #### Science Fiction and Fantasy
 
 *   [Six Reasons 2018 Was a Game-Changer for Indian Speculative Fiction](https://thewire.in/books/six-reasons-why-2018-was-a-landmark-year-for-indian-speculative-fiction) (The Wire, 29th December 2018)
@@ -73,12 +73,14 @@ layout: project
 
 *   [Politics and Fantasy: A Criticism](http://www.3quarksdaily.com/3quarksdaily/2018/01/fantasy-and-politics-a-criticism.html) (3QuarksDaily, 8th January 2018)
 
+*   Book Review:[ Anya Ow's Cradle and Grave](http://strangehorizons.com/non-fiction/cradle-and-grave-by-anya-ow/) (Strange Horizons, 22nd March 2021)
+
 *   Book Review: [Cixin Liu’s The Three-Body Problem](http://www.thehindu.com/books/books-reviews/A-celebration-of-science-as-saviour/article17192992.ece) (The Hindu’s Sunday Magazine, 4th February 2017)
 
 #### Labour and Politics
 
 **Life of Labour**, a weekly newsletter on national and  international labour news (co-written with Venkat T and Srividya
-Tadepalli) that ran for more than 100 issues. Archive on [The Wire](https://thewire.in/author/labournewsletter) / [MailChimp](https://us11.campaign-archive.com/home/?u=6b988b13445248b1268a308f2\&id=891f936238). 
+Tadepalli) that ran for more than 100 issues. Archive on [The Wire](https://thewire.in/author/labournewsletter) / [MailChimp](https://us11.campaign-archive.com/home/?u=6b988b13445248b1268a308f2\&id=891f936238).
 
 *   [Construction workers and social wealth funds](https://www.3quarksdaily.com/3quarksdaily/2018/10/indian-construction-workers-and-social-wealth-funds.html) (3QuarksDaily, 8th October 2018)
 
@@ -92,7 +94,7 @@ Tadepalli) that ran for more than 100 issues. Archive on [The Wire](https://thew
 
 *   [How India’s Sixteen Occupational Safety Laws Couldn’t Prevent Two Deaths](http://thewire.in/61863/occupational-laws-small-enterprises/) (The Wire, 28th August 2016)
 
-#### Higher Education    
+#### Higher Education
 
 *   [The Student Experiment in Organising Education on Democratic Lines ](https://thewire.in/education/student-experiment-democratic-education-st4-string-theory-cmi-matscience-tifr-iiser-bhopal)(The Wire, 24th December 2019)
 
@@ -122,7 +124,7 @@ Tadepalli) that ran for more than 100 issues. Archive on [The Wire](https://thew
 
 *   [Demystifying Higher Education in India – First of a Series](http://thewire.in/5792/demystifying-higher-education-in-india-part-one/) (The Wire, 8th July 2015)
 
-#### Science   
+#### Science
 
 *   [The Experimental Life of Naomi Mitchison](https://www.ladyscience.com/features/experimental-life-of-naomi-mitchison-2020) (LadyScience, 7th July 2020)
 
