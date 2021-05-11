@@ -3,7 +3,7 @@ title: India Podcast Directory
 date: '2018-12-18'
 thumb_image: images/image-from-rawpixel-id-399517-jpeg.jpg
 thumb_image_alt: A handheld game console on a yellow background
-image: images/6.jpg
+image: images/image-from-rawpixel-id-399517-jpeg.jpg
 image_alt: A handheld game console on a yellow background
 seo:
   title: Project Title 6
