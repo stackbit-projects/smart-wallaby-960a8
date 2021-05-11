@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Thomas Manuel
     content: |
-      ...is an award-winning writer from Chennai, India.
+      Journalist. Playwright. Tinkerer.
     actions:
       - label: Let's talk
         url: /contact
