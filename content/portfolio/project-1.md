@@ -1,6 +1,6 @@
 ---
 title: 'Book: Opium Inc'
-subtitle: Optional Project Subtitle
+subtitle: A narrative history of the opium trade in colonial India
 date: '2019-05-10'
 thumb_image: images/955px-French_opium_den.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
