@@ -16,9 +16,6 @@ params:
       - label: About
         url: /about/
         style: link
-      - label: Contact
-        url: /contact/
-        style: link
   footer:
     content: >-
       &copy; Stackbit. All rights reserved. This Jamstack site was created with
