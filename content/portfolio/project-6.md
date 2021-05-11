@@ -1,6 +1,6 @@
 ---
 title: India Podcast Directory
-subtitle: Optional Project Subtitle
+subtitle: a dire
 date: '2018-12-18'
 thumb_image: images/image-from-rawpixel-id-399517-jpeg.jpg
 thumb_image_alt: A handheld game console on a yellow background
