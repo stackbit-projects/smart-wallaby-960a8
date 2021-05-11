@@ -22,17 +22,13 @@ sections:
   - title: Get in Touch
     section_id: get-in-touch
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      If you'd like to get in touch with me, please write to
+      **thomas123manuel@gmail.com**
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Or reach out to me on twitter
+      [@notrueindian](https://twitter.com/notrueindian)
     type: section_content
 seo:
   title: Stackbit Exto Theme
