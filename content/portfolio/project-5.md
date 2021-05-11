@@ -1,6 +1,6 @@
 ---
 title: Data
-subtitle: Optional Project Subtitle
+subtitle: civic data visualization projects
 date: '2019-01-05'
 thumb_image: images/image-from-rawpixel-id-487128-jpeg.jpg
 thumb_image_alt: A white gamepad on a green background
