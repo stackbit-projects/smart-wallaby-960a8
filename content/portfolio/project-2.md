@@ -34,7 +34,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-India Ink is a public history project that does quick summaries of academic papers as well as easy-to-understand explainer videos on history that's connected to the political debates of today.
+India Ink is a public history project that publishes quick summaries of academic papers as well as easy-to-understand explainer videos on history that's connected to the political debates of today.
 
 The project was started along with Visvak and Shireen Azam in 2021. It's currently funded by generous donations from various patrons.
 
