@@ -35,11 +35,11 @@ layout: project
 ---
 As a journalist since 2015, I've written across a wide variety of subjects - from reporting on higher education to essays on the intersection of science, history and art. Here's a selection of some of my published work:
 
-
-
 #### Features / Essays
 
 *   [A Tale of Two Continents: Lemuria and Gondwana](https://www.laphamsquarterly.org/roundtable/tale-two-continents) (Lapham’s Quarterly, 11th March 2019)
+
+*   [The Experimental Life of Naomi Mitchison](https://www.ladyscience.com/features/experimental-life-of-naomi-mitchison-2020) (LadyScience, 7th July 2020)
 
 *   [The opium trader who became the Baronet of Bombay ](https://www.thehindu.com/society/history-and-culture/jamsetjee-jejeebhoy-the-opium-trader-who-became-baronet-of-bombay/article27033135.ece)(The Hindu’s Sunday Magazine, 4th May 2019)
 
