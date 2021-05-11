@@ -1,5 +1,5 @@
 ---
-title: Project Title 4
+title: Theatre
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: images/Photo Credit  Danush Bhaskar (1).jpg
