@@ -1,5 +1,5 @@
 ---
-title: Project Title 5
+title: Data
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
 thumb_image: images/image-from-rawpixel-id-487128-jpeg.jpg
