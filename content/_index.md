@@ -9,7 +9,7 @@ sections:
       Writer and maker of media, large and small.
     actions:
       - label: Let's talk
-        url: /contact
+        url: '#get-in-touch'
         style: button
   - section_id: latest-projects
     type: section_portfolio
