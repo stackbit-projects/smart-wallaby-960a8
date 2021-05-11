@@ -1,6 +1,6 @@
 ---
 title: India Ink
-subtitle: Optional Project Subtitle
+subtitle: Public history articles and videos relevant to today's debates
 date: '2019-04-30'
 thumb_image: images/Logo India Ink-02.png
 thumb_image_alt: An orange on a blue background
