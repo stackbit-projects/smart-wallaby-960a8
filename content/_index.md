@@ -21,7 +21,6 @@ sections:
     view_all_url: portfolio
   - title: Get in Touch
     section_id: get-in-touch
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
