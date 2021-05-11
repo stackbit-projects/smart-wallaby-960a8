@@ -1,5 +1,5 @@
 ---
-title: Project Title 6
+title: India Podcast Directory
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image: images/image-from-rawpixel-id-399517-jpeg.jpg
