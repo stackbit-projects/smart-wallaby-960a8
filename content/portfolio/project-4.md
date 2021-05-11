@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: images/Photo Credit  Danush Bhaskar (1).jpg
 thumb_image_alt: A table tennis racket on a pink background
-image: images/4.jpg
+image: images/Photo Credit  Danush Bhaskar (1).jpg
 image_alt: A table tennis racket on a pink background
 seo:
   title: Project Title 4
