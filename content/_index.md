@@ -19,7 +19,7 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-  - title: lorem-ipsum
+  - title: C
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
