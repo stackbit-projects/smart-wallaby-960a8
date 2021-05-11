@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Thomas Manuel
     content: |
-      Journalist - Playwright - Tinkerer
+      Writer and maker of media, large and small.
     actions:
       - label: Let's talk
         url: /contact
