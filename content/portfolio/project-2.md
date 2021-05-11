@@ -1,5 +1,5 @@
 ---
-title: India Ink
+title: MIndia Ink
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/Logo India Ink-02.png
